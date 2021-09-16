@@ -84,9 +84,17 @@
 				74D8D12C26F34A71009B1CDA /* Screenshot02.png */,
 				74D8D12D26F34A71009B1CDA /* Screenshot03.png */,
 				74D8D12B26F34A71009B1CDA /* Screenshot04.png */,
-				74D8D13226F34A95009B1CDA /* IMG_2088.MP4 */,
+				74D8D13326F34AF3009B1CDA /* video */,
 			);
 			path = Screensjots;
+			sourceTree = "<group>";
+		};
+		74D8D13326F34AF3009B1CDA /* video */ = {
+			isa = PBXGroup;
+			children = (
+				74D8D13226F34A95009B1CDA /* IMG_2088.MP4 */,
+			);
+			path = video;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
