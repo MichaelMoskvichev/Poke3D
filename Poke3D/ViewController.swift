@@ -95,9 +95,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
                     }
                 }
             }
-            
-            
-            
         }
         return node
     }
